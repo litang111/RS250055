@@ -1,4 +1,14 @@
 {
 	"Targets": [
+		{
+			"Name": "RS250055",
+			"Path": "..\\Source\\RS250055.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RS250055Editor",
+			"Path": "..\\Source\\RS250055Editor.Target.cs",
+			"Type": "Editor"
+		}
 	]
 }
