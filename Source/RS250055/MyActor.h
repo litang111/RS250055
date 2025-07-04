@@ -20,7 +20,8 @@ protected:
 	virtual void BeginPlay() override;
 
 public:	
-	// Called every frame
+	// Called every frame  
+	//li.tang
 	virtual void Tick(float DeltaTime) override;	// Called every frame
 
 };
