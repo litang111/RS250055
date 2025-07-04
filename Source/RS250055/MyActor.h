@@ -22,6 +22,7 @@ protected:
 public:	
 	// Called every frame  
 	//li.tang
+	//litang111
 	virtual void Tick(float DeltaTime) override;	// Called every frame
 
 };
