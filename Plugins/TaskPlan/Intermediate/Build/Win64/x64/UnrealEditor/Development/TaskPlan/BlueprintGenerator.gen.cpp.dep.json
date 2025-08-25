@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\blueprintgenerator.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\rs250055\\rs250055\\intermediate\\build\\win64\\x64\\rs250055editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taskplan\\definitions.taskplan.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\blueprintgenerator.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\kismet2\\blueprinteditorutils.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\editor\\classviewer\\public\\classviewermodule.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\kismet2\\kismeteditorutilities.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\blueprintgenerator.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

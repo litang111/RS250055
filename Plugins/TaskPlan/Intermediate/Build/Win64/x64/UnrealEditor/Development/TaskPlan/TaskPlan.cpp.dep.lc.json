@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\taskplan.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\rs250055\\rs250055\\intermediate\\build\\win64\\x64\\rs250055editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taskplan\\definitions.taskplan.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\taskplan.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

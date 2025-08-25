@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platform\\wsfplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\rs250055\\rs250055\\intermediate\\build\\win64\\x64\\rs250055editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taskplan\\definitions.taskplan.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platform\\wsfplatform.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\mover\\wsfmover.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\wsfplatformpart.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\wsfobject.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfobject.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfplatformpart.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfmover.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\processor\\wsfprocessor.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfprocessor.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\weapons\\wsfweapon.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\weapons\\wsfarticulatedpart.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfarticulatedpart.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\track\\wsftrack.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsftrack.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfweapon.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\platformpart\\track\\wsflocaltracklist.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsflocaltracklist.generated.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\source\\taskplan\\enumfile.h",
+            "e:\\project\\rs250055\\rs250055\\plugins\\taskplan\\intermediate\\build\\win64\\unrealeditor\\inc\\taskplan\\uht\\wsfplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
